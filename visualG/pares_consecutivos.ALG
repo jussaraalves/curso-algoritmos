@@ -3,11 +3,7 @@ Algoritmo "pares_consecutivos"
 Var
    x, soma: inteiro
 
-
-
 Inicio
-      x <- 0
-      soma <- 0
 
       escreva("Digite um numero inteiro: ")
       leia(x)

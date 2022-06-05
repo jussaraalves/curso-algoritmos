@@ -5,8 +5,6 @@ Var
    senha : inteiro
 
 Inicio
-
-      senha <- 0123
       
       escreval("Digite a senha: ")
       leia(senha)
